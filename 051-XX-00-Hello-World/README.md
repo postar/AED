@@ -6,16 +6,16 @@ Nombre del equipo (opcional).
 
 • Autor:
 
-  ◦ Usuario github.
+  ◦ Usuario github: postar
   
-  ◦ Legajo.
+  ◦ Legajo: 167530-8 
   
-  ◦ Apellido.
+  ◦ Apellido: Pocztaruk
   
-  ◦ Nombre.
+  ◦ Nombre: Mariano Tomás
   
   
-• Número y título del TP.
+• TP00:"Hello, World!" en C++
 
 • Transcripción del enunciado.
 
