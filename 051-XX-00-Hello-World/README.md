@@ -1,7 +1,4 @@
-# CppHelloWorld
-
-
-Nombre del equipo (opcional).
+﻿# CppHelloWorld
 
 
 • Autor:
