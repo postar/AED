@@ -17,6 +17,12 @@ Nombre del equipo (opcional).
   
 • TP00:"Hello, World!" en C++
 
-• Transcripción del enunciado.
+• Transcripción del enunciado:
+
+1 Demostrar con, un programa simple, que se está en capacidad de editar,compilar, y ejecutar un programa C++.
+
+2 Contar con las herramientas necesarias para la resolución de los trabajos
+
+
 
 • Hipótesis de trabajo que surgen luego de leer el enunciado.
