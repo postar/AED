@@ -1,9 +1,5 @@
 # CppHelloWorld
 
-
-Nombre del equipo (opcional).
-
-
 • Autor:
 
   ◦ Usuario github: postar
@@ -24,5 +20,5 @@ Nombre del equipo (opcional).
 2 Contar con las herramientas necesarias para la resolución de los trabajos
 
 
-
-• Hipótesis de trabajo que surgen luego de leer el enunciado.
+• Hipótesis de trabajo que surgen luego de leer el enunciado:
+Repasar el codigo dado en clase y agregar una salida para lograr el output.txt
