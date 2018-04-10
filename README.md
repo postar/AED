@@ -1,24 +1,11 @@
-# CppHelloWorld
+•  Algoritmos y Estructuras de Datos
 
-• Autor:
+•  Curso: K1051
 
-  ◦ Usuario github: postar
-  
-  ◦ Legajo: 167530-8 
-  
-  ◦ Apellido: Pocztaruk
-  
-  ◦ Nombre: Mariano Tomás
-  
-  
-• TP00:"Hello, World!" en C++
+•  Año de cursada: 2018
 
-• Transcripción del enunciado:
+•  Legajo: 167530-8
 
-1 Demostrar con, un programa simple, que se está en capacidad de editar,compilar, y ejecutar un programa C++.
+•  Apellido: Pocztaruk
 
-2 Contar con las herramientas necesarias para la resolución de los trabajos
-
-
-• Hipótesis de trabajo que surgen luego de leer el enunciado:
-Repasar el codigo dado en clase y agregar una salida para lograr el output.txt
+•  Nombre: Mariano Tomás
