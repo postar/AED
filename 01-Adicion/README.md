@@ -73,5 +73,13 @@
 ### **• Etapa #2 Diseño de la Solución:**
 #### ◦ Léxico del Algoritmo.
 #### ◦ Representación del Algoritmo
-####	▪ Representación visual.
-####	▪ Representación textual.
+####	▪ Representación visual:
+| Leer a         |
+| ------------- :|
+| Leer b         |
+| Mostar a+b     |
+
+####	▪ Representación textual:
+##### 1. Leer a
+##### 2. Leer b
+##### 3. Mostrar a+b
