@@ -65,19 +65,19 @@
 #### ◦ Refinamiento del problema e Hipótesis de trabajo:
 ##### realizar la suma de dos numeros enteros utilizando la entrada y salida standar
 #### ◦ Modelo IPO:
-| I-->          |    P          | --> O |
-| ------------- |:-------------:| -----:|
-| Z²            |               | Z     |
+I--> | P | --> O 
+--- | --- | --- 
+Z² | | Z |
 
 
 ### **• Etapa #2 Diseño de la Solución:**
 #### ◦ Léxico del Algoritmo.
 #### ◦ Representación del Algoritmo
 ####	▪ Representación visual:
-| Leer a         |
-| ------------- :|
-| Leer b         |
-| Mostar a+b     |
+| Leer a |
+| --- |
+| Leer b |
+| Mostar a+b |
 
 ####	▪ Representación textual:
 ##### 1. Leer a
