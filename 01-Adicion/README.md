@@ -18,7 +18,7 @@
 
 ### **5.1. Objetivos**
 
-####• Completar todas las etapas de la resolución de problemas para un problema simple: la adición de dos números.
+#### • Completar todas las etapas de la resolución de problemas para un problema simple: la adición de dos números.
 
 ### **5.2. Temas**
 #### • Resolución de problemas.
@@ -41,15 +41,15 @@
 #### ◦ Modelo IPO.
 
 ### **• Etapa #2 Diseño de la Solución:**
-####◦ Léxico del Algoritmo.
-####◦ Representación del Algoritmo
+#### ◦ Léxico del Algoritmo.
+#### ◦ Representación del Algoritmo
 ####	▪ Representación visual.
 ####	▪ Representación textual.
 
 ### **2. Escribir, compilar, ejecutar, y probar Adición.cpp.**
 
 ### **5.5. Restricciones**
-####• Ninguna.
+#### • Ninguna.
 
 ### **5.6. Productos**
 #### Adicion.cpp
