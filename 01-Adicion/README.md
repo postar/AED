@@ -75,7 +75,7 @@ Z² | | Z |
 #### ◦ Representación del Algoritmo
 ####	▪ Representación visual:
 | Leer a |
-| --- |
+|: --- |
 | Leer b |
 | Mostar a+b |
 
