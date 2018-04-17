@@ -65,9 +65,9 @@
 #### ◦ Refinamiento del problema e Hipótesis de trabajo:
 ##### realizar la suma de dos numeros enteros utilizando la entrada y salida standar
 #### ◦ Modelo IPO:
-##### **| I-->          |    P          | --> O |**
-#####   | ------------- |:-------------:| -----:|
-#####   | Z²            |               | Z     |
+##### | I-->          |    P          | --> O |
+##### | ------------- |:-------------:| -----:|
+##### | Z²            |               | Z     |
 
 
 ### **• Etapa #2 Diseño de la Solución:**
