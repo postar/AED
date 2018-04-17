@@ -31,7 +31,7 @@
 #### Obtener del usuario dos números y mostrarle la suma.
 
 ### **5.4. Tareas**
-####1. Escribir el archivo readme.md que actúa como front page de la resolución que contenga lo solicitado en la sección “Carpetas para cada Resolución”, y encontenga lo solicitado en la sección “Carpetas para cada Resolución”, y en particular, el Análisis del Problema y el Diseño de la Solución:
+#### 1. Escribir el archivo readme.md que actúa como front page de la resolución que contenga lo solicitado en la sección “Carpetas para cada Resolución”, y encontenga lo solicitado en la sección “Carpetas para cada Resolución”, y en particular, el Análisis del Problema y el Diseño de la Solución:
 
 
 ### **• Etapa #1: Análisis del problema:**
