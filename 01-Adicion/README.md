@@ -31,7 +31,7 @@
 #### Obtener del usuario dos números y mostrarle la suma.
 
 ### **5.4. Tareas**
-#### 1. Escribir el archivo readme.md que actúa como front page de la resolución que contenga lo solicitado en la sección “Carpetas para cada Resolución”, y encontenga lo solicitado en la sección “Carpetas para cada Resolución”, y en particular, el Análisis del Problema y el Diseño de la Solución:
+#### 1. Escribir el archivo readme.md que actúa como front page de la resolución que contenga lo solicitado en la sección “Carpetas para cada Resolución”, y en particular, el Análisis del Problema y el Diseño de la Solución:
 
 
 ### **• Etapa #1: Análisis del problema:**
@@ -58,4 +58,19 @@
 
 
 ## •  Hipótesis de trabajo que surgen luego de leer el enunciado:
-### Se requiere la entrada de dos numeros para luego proceder a la adicion de estos mismos, mediante del objeto cin alojado en std se captura cada numero y se los guarda como ints a y b respectivamente, luego mediante cout se procede a mostrar en la salida la suma de a y b.
+### **• Etapa #1: Análisis del problema:**
+
+#### ◦ Transcripción del problema:
+##### la adición de dos números.
+#### ◦ Refinamiento del problema e Hipótesis de trabajo:
+##### realizar la suma de dos numeros enteros utilizando la entrada y salida standar
+#### ◦ Modelo IPO:
+##### **I -> P -> O**
+##### Z²		  Z
+
+
+### **• Etapa #2 Diseño de la Solución:**
+#### ◦ Léxico del Algoritmo.
+#### ◦ Representación del Algoritmo
+####	▪ Representación visual.
+####	▪ Representación textual.
