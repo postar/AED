@@ -1,6 +1,6 @@
 ## •  Número de equipo: 00
 
-## •.  Autores de la resolución: Mariano Pocztaruk
+## •  Autores de la resolución: Mariano Pocztaruk
 
 ####	- Usuario github: Postar
 
@@ -10,9 +10,11 @@
 
 ####	- Nombre: Mariano Tomás
 
-## •  Número y título del trabajo:01 Resolución de Problemas--Adición
+## •  Número y título del trabajo:
 
-## •  Transcripción del enunciado
+### 01 Resolución de Problemas--Adición
+
+## •  Transcripción del enunciado:
 
 ### - Completar todas las etapas de la resolución de problemas para un problema simple: la adición de dos números.
 
