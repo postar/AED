@@ -1,16 +1,16 @@
-•  Número de equipo: 00
+## •  Número de equipo: 00
 
-•  Autores de la resolución: Mariano Pocztaruk
+## •  Autores de la resolución: Mariano Pocztaruk
 
-◦  Usuario github: Postar
+### - ◦  Usuario github: Postar
 
-◦  Legajo: 167530-8
+#### - ◦  Legajo: 167530-8
 
-◦  Apellido: Pocztaruk
+#### ◦  Apellido: Pocztaruk
 
-◦  Nombre: Mariano Tomás
+#### ◦  Nombre: Mariano Tomás
 
-•  Número y título del trabajo:#01 Resolución de Problemas--Adición
+## •  Número y título del trabajo:01 Resolución de Problemas--Adición
 
 ## •  Transcripción del enunciado
 
