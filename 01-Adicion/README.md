@@ -1,8 +1,8 @@
 ## •  Número de equipo: 00
 
-## •  Autores de la resolución: Mariano Pocztaruk
+## •.  Autores de la resolución: Mariano Pocztaruk
 
-###		- Usuario github: Postar
+####	- Usuario github: Postar
 
 ####	- Legajo: 167530-8
 
