@@ -2,20 +2,19 @@
 
 ## •  Autores de la resolución: Mariano Pocztaruk
 
-### - ◦  Usuario github: Postar
+###		- Usuario github: Postar
 
-#### - ◦  Legajo: 167530-8
+####	- Legajo: 167530-8
 
-#### ◦  Apellido: Pocztaruk
+####	- Apellido: Pocztaruk
 
-#### ◦  Nombre: Mariano Tomás
+####	- Nombre: Mariano Tomás
 
 ## •  Número y título del trabajo:01 Resolución de Problemas--Adición
 
 ## •  Transcripción del enunciado
 
-### - Completar todas las etapas de la resolución de problemas para un problema
-simple: la adición de dos números.
+### - Completar todas las etapas de la resolución de problemas para un problema simple: la adición de dos números.
 
 
 ## •  Hipótesis de trabajo que surgen luego de leer el enunciado:
