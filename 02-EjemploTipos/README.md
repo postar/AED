@@ -53,14 +53,20 @@ I--> | P | --> O
 #### No Posee lexico especifico definido por el progamador solo el lexico que utiliza la libreria
 #### ◦ Representación del Algoritmo
 ####	▪ Representación visual:
-| Leer a |
+| Mostar introduccion Bool|
 | --- |
-| Leer b |
-| Mostar a+b |
+| Mostar Bool|
+| Mostar introduccion int|
+| Mostar int|
+| Mostar introduccion double|
+| Mostar double|
+| Mostar introduccion chart|
+| Mostar chart|
+| Mostar string|
 
 ####	▪ Representación textual:
-##### 1. Mostrar Bool
+##### 1. Mostrar bool
 ##### 2. Mostrar int
-##### 3. Mostrar Double
-##### 4. Mostrar Chart
-##### 5. Mostrar String
+##### 3. Mostrar double
+##### 4. Mostrar chart
+##### 5. Mostrar string
