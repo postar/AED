@@ -45,7 +45,7 @@
 #### ◦ Modelo IPO:
 I--> | P | --> O 
 --- | --- | --- 
- | | R; ASCII; Cadenas de Palabras |
+ | | | R; ASCII; Cadenas de Palabras
 
 
 ### **• Etapa #2 Diseño de la Solución:**
@@ -53,8 +53,8 @@ I--> | P | --> O
 #### No Posee lexico especifico definido por el progamador solo el lexico que utiliza la libreria
 #### ◦ Representación del Algoritmo
 ####	▪ Representación visual:
-| --- |
 | Leer a |
+| --- |
 | Leer b |
 | Mostar a+b |
 
