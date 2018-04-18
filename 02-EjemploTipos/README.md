@@ -50,7 +50,7 @@ I--> | P | --> O
 
 ### **• Etapa #2 Diseño de la Solución:**
 #### ◦ Léxico del Algoritmo:
-#### No Posee lexico especifico definido por el progamador solo el lexico que utiliza la libreria
+#### a ∈ Z;  b ∈ ASCII
 #### ◦ Representación del Algoritmo
 ####	▪ Representación visual:
 | Mostar introduccion Bool|

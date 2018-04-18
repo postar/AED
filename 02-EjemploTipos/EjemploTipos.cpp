@@ -4,6 +4,7 @@
 */
 
 #include <iostream>
+#include <assert.h>
 
 int main () {
 	std :: cout << "Soy un Bool y si soy verdadero devuelvo\n";
@@ -26,4 +27,15 @@ int main () {
 	std :: cout << "\n";
 	std :: cout << "\n";
 	std :: cout << "Y yo soy un string, no necesito una introduccion porque conmigo se pueden escribir oraciones\n";
-}
+	std :: cout << "Tambien puedo demostar que 1 es distinto de 1 si se usan distintos tipos de dato, en este caso char e int \n";
+	int a = 5;
+	char b = '5';
+	std :: cout << "Este es el valor del int a: ";
+	std :: cout << a;
+	std :: cout << "\n";
+	std :: cout << "Este es el valor del char b: ";
+	std :: cout << b;
+	std :: cout << "\n";
+	std :: cout << "si hacemos que la maquina los compare pasa esto\n";
+	std:assert(a==b);
+	}
