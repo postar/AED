@@ -1,4 +1,4 @@
-## •  Número de equipo: 00
+﻿## •  Número de equipo: 00
 
 ## •  Autores de la resolución: Mariano Pocztaruk
 
@@ -71,7 +71,8 @@ Z² | | Z |
 
 
 ### **• Etapa #2 Diseño de la Solución:**
-#### ◦ Léxico del Algoritmo.
+#### ◦ Léxico del Algoritmo:
+#### a ∈ Z, b ∈ Z, a+b ∈ Z
 #### ◦ Representación del Algoritmo
 ####	▪ Representación visual:
 | Leer a |
