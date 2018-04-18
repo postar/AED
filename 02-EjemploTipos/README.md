@@ -65,8 +65,12 @@ I--> | P | --> O
 | Mostar string|
 
 ####	▪ Representación textual:
-##### 1. Mostrar bool
-##### 2. Mostrar int
-##### 3. Mostrar double
-##### 4. Mostrar chart
-##### 5. Mostrar string
+##### 1. Mostrar introduccion bool
+##### 2. Mostrar bool
+##### 3. Mostrar introduccion int
+##### 4. Mostrar int
+##### 5. Mostrar introduccion double
+##### 6. Mostrar double
+##### 7. Mostrar introduccion chart
+##### 8. Mostrar chart
+##### 9. Mostrar string
