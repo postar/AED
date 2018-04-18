@@ -1,11 +1,11 @@
-•  Algoritmos y Estructuras de Datos
+#•  Algoritmos y Estructuras de Datos
 
-•  Curso: K1051
+##•  Curso: K1051
 
-•  Año de cursada: 2018
+##•  Año de cursada: 2018
 
-•  Legajo: 167530-8
+##•  Legajo: 167530-8
 
-•  Apellido: Pocztaruk
+##•  Apellido: Pocztaruk
 
-•  Nombre: Mariano Tomás
+##•  Nombre: Mariano Tomás
