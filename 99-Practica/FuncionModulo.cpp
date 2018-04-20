@@ -8,5 +8,5 @@ unsigned modulo (int a){
 int main() {
     assert (4==modulo(4));
     assert (4==modulo(-4));
-    
+    assert (0==modulo(0));
 }
