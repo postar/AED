@@ -45,32 +45,17 @@
 #### ◦ Modelo IPO:
 I--> | P | --> O 
 --- | --- | --- 
- | | | R; ASCII; Cadenas de Palabras
+ | | | B, Σ, N, Z, R, Σ*	
 
 
 ### **• Etapa #2 Diseño de la Solución:**
 #### ◦ Léxico del Algoritmo:
-#### a ∈ Z;  b ∈ ASCII
+#### t ∈ B;  a ∈ Σ; z ∈ Z; d ∈ R; s,s1,s2 ∈ Σ*; n ∈ N
 #### ◦ Representación del Algoritmo
 ####	▪ Representación visual:
-| Mostar introduccion Bool|
+|S1+S2|
 | --- |
-| Mostar Bool|
-| Mostar introduccion int|
-| Mostar int|
-| Mostar introduccion double|
-| Mostar double|
-| Mostar introduccion chart|
-| Mostar chart|
-| Mostar string|
+
 
 ####	▪ Representación textual:
-##### 1. Mostrar introduccion bool
-##### 2. Mostrar bool
-##### 3. Mostrar introduccion int
-##### 4. Mostrar int
-##### 5. Mostrar introduccion double
-##### 6. Mostrar double
-##### 7. Mostrar introduccion chart
-##### 8. Mostrar chart
-##### 9. Mostrar string
+##### 1. S=S1+S2
