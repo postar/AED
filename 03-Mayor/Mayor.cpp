@@ -6,6 +6,7 @@
 #include <iostream>
 #include <cassert>
 
+// (a>b) devuelve 1 si a>b y 0 si a<b
 int mayor(int);
 int mayor(int a,int b){
 	return (a*(a>b)+b*(b>a));
