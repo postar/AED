@@ -29,7 +29,7 @@
 ### **• Etapa #1: Análisis del problema:**
 
 #### ◦ Transcripción del problema:
-#### ◦ Dado dos números informar cuál es el mayor.
+#### ◦ Dado dos enteros informar cuál es el mayor.
 #### ◦ Refinamiento del problema e Hipótesis de trabajo:
 ##### Definidos dos numeros a y b devolver a o b según cual sea mayor.
 #### ◦ Modelo IPO:
