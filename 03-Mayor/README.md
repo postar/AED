@@ -35,7 +35,7 @@
 #### ◦ Modelo IPO:
 I--> | P | --> O 
 --- | --- | --- 
- Z²| | | Z
+ Z²| | Z
 
 
 ### **• Etapa #2 Diseño de la Solución:**
