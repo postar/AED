@@ -4,7 +4,7 @@
 
 unsigned modulo (int);
 unsigned modulo (int a) {
-   return (sqrt(a*a));
+   return sqrt(a*a);
 }
 
 int main() {
