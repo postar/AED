@@ -1,8 +1,3 @@
-/* MTP
-* 20180426
-* Mayor
-*/
-
 #include <iostream>
 #include <cassert>
 
