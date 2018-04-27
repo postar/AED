@@ -9,4 +9,4 @@ int main() {
     assert (0==modulo(0));
 }
 
-unsigned modulo (int a){return a * ((a>0)-(a<0));}
+unsigned modulo (int a){return n>=0 ? n : -n;}
