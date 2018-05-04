@@ -2,13 +2,11 @@
 #include <iostream>
 
 double c(double);
-bool err(double, double, double);
+bool err(double, double, double=0.01);
 
 int main () {
 	double er = 0.01;
-	assert (err(-17.77,c(0),er));
-	std::cout << c (0);
-	std::cout << err ( c(0),-17.77,er);
+	assert (err(-17.77,c(0)));
 }
 
 double c(double a){return (a-32)*5.0/9.0;}
