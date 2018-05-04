@@ -7,9 +7,9 @@
 bool esbiciesto(int);
 
 int main () {
-assert (1==esbiciesto(2000));
-assert (0==esbiciesto(2001));
-assert (1!=esbiciesto(2003));
+assert (esbiciesto(2000));
+assert (not esbiciesto(2001));
+assert (not esbiciesto(2003));
 }
 
 bool esbiciesto (int a){return
