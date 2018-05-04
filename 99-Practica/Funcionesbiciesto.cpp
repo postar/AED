@@ -1,6 +1,6 @@
 /* MTP
 * 20180503
-* esBiciesto
+* esbiciesto
 */
 #include <cassert>
 
@@ -10,6 +10,7 @@ int main () {
 assert (esbiciesto(2000));
 assert (not esbiciesto(2001));
 assert (not esbiciesto(2003));
+assert (not esbiciesto(1900));
 }
 
 bool esbiciesto (int a){return
