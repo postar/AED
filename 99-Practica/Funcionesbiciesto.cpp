@@ -15,5 +15,5 @@ assert (	esbiciesto (4)   );
 assert (	esbiciesto (2016));
 }
 
-bool esbiciesto (int a){return
-	a%400==0 or a%4==0 and a%100!=0;}
+bool esbiciesto (int anio){return
+	anio%400==0 or anio%4==0 and anio%100!=0;}
